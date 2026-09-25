@@ -27,3 +27,4 @@ Click the Progress tab to see how you're doing over time
 Notes / things to know
 The voice for the "wrong letter" sound depends on your browser, so it might sound different on different computers
 Your stats are saved in your browser, so if you clear your browsing data they'll be gone
+
