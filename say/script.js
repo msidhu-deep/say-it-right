@@ -1,15 +1,11 @@
 // script.js
 // This is the code for my typing practice game.
-// It shows a sentence, the user types it, and I check each letter
-// as they go. I also save their results in localStorage so the
-// progress page can show their history.
 
 (function () {
 
   // ======================================================
   // SENTENCES
   // These are the sentences the game cycles through, one after
-  // another (not random). No periods, commas or exclamation marks
   // because the user typing them doesn't need to worry about those.
   // ======================================================
   var SENTENCES = [
